@@ -8,12 +8,11 @@ The bar is called Molly's.
 My goal on this site is to learn a little more about html and css, in the future include JS, PHP etc.
 
 ##Using
+To link a .css file to a .html document, we must insert a <link> tag in the <head> of the document, with the file path href
 
 >I used this code to reference the css with the html
 
-
-To link a .css file to a .html document, we must insert a <link> tag in the <head> of the document, with the file path href.
-"<link rel = "stylesheet" href = "css / style.css">"
+'link rel = "stylesheet" href = "css / style.css"'
 
 ## Text Editor
 
