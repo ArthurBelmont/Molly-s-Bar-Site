@@ -7,7 +7,7 @@ This site was inspired by Chicago fire, a Fire Department series, in which 3 fir
 The bar is called Molly's.
 My goal on this site is to learn a little more about html and css, in the future include JS, PHP etc.
 
-##Using
+## Using
 
 To link a .css file to a .html document, we must insert a <link> tag in the <head> of the document, with the file path href
 >I used this code to reference the css with the html
