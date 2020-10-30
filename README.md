@@ -13,8 +13,9 @@ My goal on this site is to learn a little more about html and css, in the future
 ---
 
 To link a .css file to a .html document, we must insert a <link> tag in the <head> of the document, with the file path href.
+
 html
-<! html doctype>
+<!doctype html>
 <html>
     <head>
         <link rel = "stylesheet" href = "css / style.css">
