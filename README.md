@@ -13,7 +13,7 @@ My goal on this site is to learn a little more about html and css, in the future
 ---
 
 html
-<!doctype html>
+<!DOCTYPE html>
 <html>
     <head>
         <link rel="stylesheet" href="css/style.css">
