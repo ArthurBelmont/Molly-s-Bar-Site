@@ -13,7 +13,13 @@ My goal on this site is to learn a little more about html and css, in the future
 ---
 
 html
- <link rel="stylesheet" href="css/style.css">
+<!doctype html>
+<html>
+    <head>
+        <link rel="stylesheet" href="css/style.css">
+    </head>
+    <body></body>
+</html>
 
 ## Text Editor
 
