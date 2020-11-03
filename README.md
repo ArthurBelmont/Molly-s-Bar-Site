@@ -1,8 +1,8 @@
 #  👨‍💻 First Project in HTML & CSS 🌐 
 
-![Molly's Bar]
-![Part1](https://prnt.sc/vckx2g)
-![Part2](https://prnt.sc/vckyfu)
+
+![Part1](https://prnt.sc/vckx2g.jpg)
+![Part2](https://prnt.sc/vckyfu.jpg)
 
 >The Molly's Bar
 ---
