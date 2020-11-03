@@ -1,5 +1,8 @@
 #  👨‍💻 First Project in HTML & CSS 🌐 
 
+![Part1](https://ibb.co/qppRQ6W)
+![Part2](https://ibb.co/rFCsbd1)
+
 >The Molly's Bar
 ---
 
